@@ -1,0 +1,10 @@
+{
+    "name": "bew-bt/ec3m20c3",
+    "description": "ec3m20c3",
+    "license": "MIT",
+    "homepage": "https://github.com/bew-bt/ec3m20c3",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
