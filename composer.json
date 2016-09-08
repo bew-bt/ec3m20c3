@@ -6,5 +6,10 @@
     "type": "library",
     "require": {
         "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ec3m20c3": "src/"
+        }
     }
 }
