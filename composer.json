@@ -4,6 +4,7 @@
     "license": "MIT",
     "homepage": "https://github.com/bew-bt/ec3m20c3",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.0"
     },
