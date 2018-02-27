@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ec3m20c3\\": "src/ec3m20c3/"
+            "Tbstore\\": "src/ec3m20c3/"
         }
     }
 }
